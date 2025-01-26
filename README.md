@@ -9,6 +9,8 @@ This is the Lable provided for to ML Algo
 Result for the Support Vector Machine (SVM)
 ![segment_SVC_200_estim](https://github.com/user-attachments/assets/44cd5726-5450-438e-935d-1e3bfe6c19a2)
 
+
 Results for Random Forest Classification (RFC)
-![segmented_rfC_100_estim](https://github.com/user-attachments/assets/61f66db9-a671-44f1-b96e-d0c772ed3ef4)
+![image](https://github.com/user-attachments/assets/0042898b-e958-41e9-9343-f0f0a1297326)
+
 
